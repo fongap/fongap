@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fongap
+# Fongap Studio
 
 **AI infrastructure · local-first tools · self-hosted systems**
 
@@ -18,10 +18,10 @@ Personal Work
    Delta
      │
 AI Gateway ───── AI Providers
-     │
-Server Edge ─── Runtime
 
-GitHub ──────── Action Worker ─── Build / Deploy
+Server Edge ──── Runtime & Services
+
+GitHub ───────── Action Worker ─── Build / Deploy
 ```
 
 <sub>
