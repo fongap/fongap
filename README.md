@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fongap Studio
+# Fongap
 
 **AI infrastructure · local-first tools · self-hosted systems**
 
@@ -12,20 +12,16 @@ Building small, reliable systems around AI, automation, and personal computing.
 
 <br>
 
-### What I'm building
-
 ```text
 Personal Work
      │
-     ▼
    Delta
      │
-     ▼
-AI Gateway ──────► AI Providers
+AI Gateway ───── AI Providers
+     │
+Server Edge ─── Runtime
 
-Server Edge ─────► Runtime & Services
-
-GitHub ──────────► Action Worker ─────► Build / Deploy
+GitHub ──────── Action Worker ─── Build / Deploy
 ```
 
 <sub>
