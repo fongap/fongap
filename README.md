@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fongap Studio
+# Fongap
 
 **AI infrastructure · local-first tools · self-hosted systems**
 
