@@ -6,7 +6,7 @@
 
 Building small, reliable systems around AI, automation, and personal computing.
 
-[**Blog**](https://www.fongap.com) · [**AI Gateway**](https://github.com/fongap/ai-gateway) · [**Delta**](https://github.com/fongap/delta)
+[**Blog**](https://www.fongap.com) · [**AI Gateway**](https://api.135468.xyz) · [**Delta**](https://github.com/fongap/delta)
 
 </div>
 
