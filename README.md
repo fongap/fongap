@@ -6,7 +6,7 @@
 
 Building small, reliable systems around AI, automation, and personal computing.
 
-[**Blog**](https://www.fongap.com) · [**Smart AI Gateway**](https://api.135468.xyz)
+[**Blog**](https://www.fongap.com) · [**AI Gateway**](https://api.135468.xyz)
 
 </div>
 
