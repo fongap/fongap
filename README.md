@@ -12,7 +12,7 @@ Building small, reliable systems around AI, automation, and personal computing.
 
 <br>
 
-### System
+### What I'm building
 
 ```text
 Personal Work
