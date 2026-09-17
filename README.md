@@ -1,27 +1,17 @@
-<div align="center">
-
 # Fongap Studio
 
 **AI infrastructure · local-first tools · self-hosted systems**
 
 Building small, reliable systems around AI, automation, and personal computing.
 
-[**Blog**](https://www.fongap.com) · [**AI Gateway**](https://api.135468.xyz)
-
-</div>
-
-<br>
+[Blog](https://www.fongap.com) · [AI Gateway](https://api.135468.xyz)
 
 ```text
-Personal Work
+AI Workspace
      │
    Delta
      │
-AI Gateway ───── AI Providers
-
-GitHub ───────── Action Worker ─── Build / Deploy
+AI Gateway ── AI Providers
 ```
 
-<sub>
-Build small · keep boundaries explicit · make failure recoverable.
-</sub>
+> Build small · keep boundaries explicit · make failure recoverable.
