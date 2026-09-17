@@ -19,8 +19,6 @@ Personal Work
      │
 AI Gateway ───── AI Providers
 
-Server Edge ──── Runtime & Services
-
 GitHub ───────── Action Worker ─── Build / Deploy
 ```
 
