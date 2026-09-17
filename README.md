@@ -14,4 +14,4 @@ AI Workspace
 AI Gateway ── AI Providers
 ```
 
-> Build small · keep boundaries explicit · make failure recoverable.
+> Explicit boundaries. Recoverable failures.
