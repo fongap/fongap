@@ -1,9 +1,11 @@
-# Fongap Studio
+# Fongap
 
-**AI infrastructure · local-first tools · self-hosted systems**
+Maintainer of [Fongap Labs](https://github.com/fongap-labs) · [Blog](https://www.fongap.com/)
 
-Building small, reliable systems around AI, automation, and personal computing.
+Mostly vibe coding. Occasionally understanding the code.
 
-[Blog](https://www.fongap.com) · [AI Gateway](https://api.135468.xyz)
-
+<p>
 <a href="https://api.135468.xyz/"><img src="https://api.135468.xyz/readme-status.svg?v=20260918-3" alt="Live production usage from the maintainer deployment" width="920"></a>
+</p>
+
+
